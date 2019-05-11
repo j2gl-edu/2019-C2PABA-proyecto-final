@@ -1,0 +1,23 @@
+temp/
+.DS_Store
+!.mvn/wrapper/maven-wrapper.jar
+
+### Eclipse
+.classpath
+.project
+.settings
+
+### IntelliJ IDEA 
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Maven
+target/
+
+# Java
+*.class
+
+# Visual Studio
+.vscode
