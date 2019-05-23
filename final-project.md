@@ -51,7 +51,7 @@ Luego de llenar el arbol, agregar una opción para desplegarlo.
 **Fecha: Miercoles 22 de Mayo 2019**
 
 Se debe implemetar la búsqueda de productos en el arbol.  También se debe de hacer un menú con las siguientes opciones:
-* Cargar datos de Archvio CSV
+* Cargar datos de Archivo CSV
 * Desplegar Inventario
 * Búscar un producto por descripción
 * Ingresar Pedido
