@@ -12,7 +12,7 @@
 * Fomentar la investigación y autoaprendizaje del alumno.
 * Aplicar los conocimientos de Programación Orientada a Objetos, utilizando interfaces, clases, clases abstractas.
 * Resolver problemas aplicando estructuras de datos dinamicas y recursividad.
-* Implementar métodos de ordenamiento implicitos (arboles) o explicitos (quicksort) sobre estructuras de datos.
+* Implementar métodos de ordenamiento implicitos (árboles) o explicitos (quicksort) sobre estructuras de datos.
 * Utilizar los conocimientos adquiridos de uso de estructuras, listas y árboles dinámicos
 
 ## Descripción
@@ -29,7 +29,7 @@ Dado que se cuenta con una cantidad finita de elementos de un fármaco cuando la
 
 Deberá de contar con la interfaz necesaria para poder re abastecer los fármacos que no tengan existencia en un momento dado, el re abastecimiento de los fármacos será a travez de una simulación generando inventario de forma aleatoria entre 1 y 15. Esto hará que el sistema deba de genera nuevamente el indice y poder así incluir a los fármacos con existencia.
 
-En todo momento se podrá evaluar el estado del indice a travez de los recorridos vistos en clase para los arboles binarios, así como poder exportar el mismo a travez de un archivo.
+En todo momento se podrá evaluar el estado del indice a travez de los recorridos vistos en clase para los árboles binarios, así como poder exportar el mismo a travez de un archivo.
 
 ## Fases
 
@@ -37,20 +37,20 @@ En todo momento se podrá evaluar el estado del indice a travez de los recorrido
 
 * Fecha: Miercoles 15 de Mayo 2019
 
-Leer el archivo csv (Comma separated values) y subirlo a un árbol que contenga un hojas, de tipo nodo con la siguiete estructura:
+Leer el archivo csv (Comma separated values) y subirlo a un árbol que contenga hojas de tipo nodo con la siguiente estructura:
 
 * ProductTreeNodo 
     * Name (Nombre)
     * Stock (Existencia)
-    * Line Number (Numero de Linea)
+    * Line Number (Numero de Línea)
 
-Luego de llenar el arbol, agregar una opción para desplegarlo.
+Luego de llenar el árbol, agregar una opción para desplegarlo.
 
 ### 2. Menu y Busqueda
 
 **Fecha: Miercoles 22 de Mayo 2019**
 
-Se debe implemetar la búsqueda de productos en el arbol.  También se debe de hacer un menú con las siguientes opciones:
+Se debe implemetar la búsqueda de productos en el árbol.  También se debe de hacer un menú con las siguientes opciones:
 * Cargar datos de Archivo CSV
 * Desplegar Inventario
 * Búscar un producto por descripción
@@ -77,4 +77,4 @@ a) Crear las siguientes estructuras:
 
 b) Hacer la forma de ingreso del encabezado  
 c) Hacer la forma de ingreso de productos al pedido  
-d) Calcular el precio final del pedido y descontar del inventario en el arbol.   
+d) Calcular el precio final del pedido y descontar del inventario en el árbol.   
