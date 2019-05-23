@@ -48,16 +48,17 @@ Luego de llenar el arbol, agregar una opción para desplegarlo.
 
 ### 2. Menu y Busqueda
 
-* Fecha: Miercoles 22 de Mayo 2019
-Se debe implemetar la búsqueda de productos en el arbol.  También se debe de hace un menu con las siguientes opciones:
+**Fecha: Miercoles 22 de Mayo 2019**
 
-1. Cargar datos de Archvio CSV
-2. Deplegar Inventario
-3. Búscar un producto por descripción
-X. Salir
+Se debe implemetar la búsqueda de productos en el arbol.  También se debe de hacer un menú con las siguientes opciones:
+* Cargar datos de Archvio CSV
+* Desplegar Inventario
+* Búscar un producto por descripción
+* Ingresar Pedido
+* Salir
 
 ### 3. Pedidos
-* Fecha: Miercoles 29 de Mayo 2019
+**Fecha: Miercoles 29 de Mayo 2019**
 
 a) Crear las siguientes estructuras:
 * Product
@@ -74,8 +75,6 @@ a) Crear las siguientes estructuras:
     * Product List (Lista de tipo Producto con todos los farmacos que hay en el pedido)
     * Total Amount (Total del pedido)
 
-b) Hacer la forma de ingreso del encabezado
-c) Hacer la forma de ingreso de productos al pedido
-d) Calcular el precio final del pedido y descontar del inventario en el arbol.
-
-
+b) Hacer la forma de ingreso del encabezado  
+c) Hacer la forma de ingreso de productos al pedido  
+d) Calcular el precio final del pedido y descontar del inventario en el arbol.   
